@@ -1,0 +1,28 @@
+/* CSS property for slider */
+input[type="range"] {
+    -webkit-appearance: none;
+    height: 10px;
+    width: 80%;
+    border-radius: 50px;
+    outline: none;
+    width: 200px;
+}
+
+.generator {
+    background-color: cadetblue;
+    padding: 20px;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+#red {
+    background: linear-gradient(90deg, #000, red);
+}
+
+#green {
+    background: linear-gradient(90deg, #000, green);
+}
+
+#blue {
+    background: linear-gradient(90deg, #000, blue);
+}
